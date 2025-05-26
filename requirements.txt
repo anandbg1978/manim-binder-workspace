@@ -1,0 +1,9 @@
+manim>=0.17.2
+jupyter
+ipywidgets
+matplotlib
+numpy
+scipy
+pydub
+ffmpeg-python
+pillow
